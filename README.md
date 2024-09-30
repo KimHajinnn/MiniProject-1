@@ -10,4 +10,5 @@ Tugas: Mini Project 1 (Dasar-Dasar Pemograman)
 
 Flowchart
 
-![Mini Project 1 drawio](https://github.com/user-attachments/assets/9bdebe06-ed01-4f47-b022-7a8c8f06878f)
+![Mini Project 1 drawio (1)](https://github.com/user-attachments/assets/e9691176-797b-4fa5-b2a6-5557633671f4)
+
