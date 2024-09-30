@@ -71,6 +71,8 @@ while True :
         
 (Menggunakan "while True" untuk bisa melakukan looping)
 
+(Menggunakan "\n" untuk masuk ke line baru)
+
 (Menggunakan "if-else" untuk menentukan bonus)
 
 6. memasukkan pengulangan
