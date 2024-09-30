@@ -1,7 +1,10 @@
 # MiniProject-1
 Nama : Christian Amsal Asimaro Lumban Tobing
+
 Kelas: Sistem Informasi B 24
+
 NIM  : 2409116053
+
 Tugas: Mini Project 1 (Dasar-Dasar Pemograman)
 
 Flowchart
