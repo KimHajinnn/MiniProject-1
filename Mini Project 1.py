@@ -29,7 +29,7 @@ while True :
         jk = (f"Anda mendapatkan Bonus sebesar {gaji * 10/100}" f"\nTotal Gaji anda sebesar {gaji + gaji * 10/100} ")
         print(jk)
     else: 
-        jk = (f"Anda tidak mendapatkan Bonus \ngaji anda sebesar {gaji}")
+        jk = (f"Anda tidak mendapatkan Bonus \nGaji anda sebesar {gaji}")
         print(jk)
 
 
