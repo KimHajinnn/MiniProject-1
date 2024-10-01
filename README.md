@@ -97,6 +97,25 @@ while True :
 (Menggunakan "Break" untuk memberhentikan Looping)
 
 
-# Foto Output pada Terminal
-![image](https://github.com/user-attachments/assets/90ac896f-3e2f-4843-9cd5-b8b5c3dd0476)
+# Foto Output pada Terminal dan Penjelasannya
+
+![Screenshot 2024-10-01 105656](https://github.com/user-attachments/assets/fb8383c7-269e-498a-ac42-24724a81526e)
+
+Daftarkan Akun dengan memasukkan Nama, Nim, Prodi, dan Password
+
+![Screenshot 2024-10-01 105738](https://github.com/user-attachments/assets/b58b90c9-afc4-47e8-8f39-88c3f3aef938)
+
+Kemudian Masukkan Nama dan Password yang sudah di masukkan saat Daftar Akun di Login Akun
+
+![Screenshot 2024-10-01 105826](https://github.com/user-attachments/assets/6ef2c1d1-2260-45a3-9610-3d7a96f4b503)
+
+Setelah Login, Masukkan Nominal Tarif Kerja dan waktu kerja untuk melakukan perhitungan bonus yang di dapat dan total gaji
+
+![Screenshot 2024-10-01 105844](https://github.com/user-attachments/assets/a4244ba0-ef36-4c6b-a5be-fd81e21983b5)
+
+setelah melakukan penghitungan gaji, akan muncul pilihan untuk mengulang atau tidak.
+
+jika mengulang, akan mengulang dari Memasukkan Nominal Tarif dan waktu kerja
+
+jika tidak, akan keluar dari program
 
